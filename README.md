@@ -32,7 +32,7 @@ Running the Project
 
 Install the required Python libraries:
 
-pip install numpy matplotlib
+pip install -r requirements.txt
 
 Keep the Python script and the original wind turbine power dataset in the same folder, then run the script using Python.
 
